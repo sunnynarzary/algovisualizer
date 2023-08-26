@@ -9,7 +9,7 @@ Check the website here :- https://pathfinding-visualizer-iitg.herokuapp.com/
 
 ## Installation
 ### Cloning the repository:
-Clone the repository using git clone https://github.com/vineet140502/algorithmvisualizer.git
+Clone the repository using git clone https://github.com/sunnynarzary/algovisualizer/edit/master.git
 ### Installing dependencies:
 Run `npm install`
 ### Starting the server:
@@ -50,6 +50,4 @@ After visualization you can reposition start and end node as you want and add an
 ## Developers
 ### This Project was built by
 
-- [Harshit Sureka](https://github.com/hsureka)
-- [Kartik Verma](https://github.com/kartikverma044)
-- [Vineet Agarwal](https://github.com/vineet140502)
+SUNNY NARZARY
