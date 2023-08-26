@@ -1,7 +1,6 @@
 # Algorithm-Visualizer
 A web application to visualize various pathfinding algorithms on a Grid
 
-Check the website here :- https://pathfinding-visualizer-iitg.herokuapp.com/
 
 ## Screenshots
 <img src="./p2.png" width="800">
