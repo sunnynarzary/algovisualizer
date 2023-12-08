@@ -1,11 +1,6 @@
 # Algorithm-Visualizer
 A web application to visualize various pathfinding algorithms on a Grid
 
-
-## Screenshots
-<img src="./p2.png" width="800">
-<img src="./p1.png" width="800">
-
 ## Installation
 ### Cloning the repository:
 Clone the repository using git clone https://github.com/sunnynarzary/algovisualizer/edit/master.git
